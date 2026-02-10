@@ -1,10 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+
+using Microsoft.EntityFrameworkCore;
 
 namespace MendezEmpanadas.Data.Context
 {
-    internal class EmpanadasContext
+    public class EmpanadasContext : DbContext
     {
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseInMemoryDatabase("EmpanadasDb");
+        }
+
     }
 }
