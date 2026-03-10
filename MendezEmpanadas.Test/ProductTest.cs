@@ -16,6 +16,14 @@ namespace MendezEmpanadas.Test
         }
 
         [Fact]
+        public void Constructor_WithNullName_ThrowsArgumentNullException()
+        {
+            Assert.Throws<ArgumentNullException>(() =>
+                new Product(null!, "Empanada con queso", 34.99m, 20)
+            );
+        }
+
+        [Fact]
         public void Constructor_WithNegativePrice_ThrowsArgumentException()
         {
             Assert.Throws<ArgumentException>(() => 

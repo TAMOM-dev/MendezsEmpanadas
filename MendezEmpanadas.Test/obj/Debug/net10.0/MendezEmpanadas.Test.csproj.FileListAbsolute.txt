@@ -155,3 +155,5 @@ C:\Users\Administrator\Documents\dev\Mendez's Empanadas\MendezsEmpanadas\MendezE
 C:\Users\Administrator\Documents\dev\Mendez's Empanadas\MendezsEmpanadas\MendezEmpanadas.Test\bin\Debug\net10.0\MendezEmpanadas.Data.dll
 C:\Users\Administrator\Documents\dev\Mendez's Empanadas\MendezsEmpanadas\MendezEmpanadas.Test\bin\Debug\net10.0\MendezEmpanadas.Data.pdb
 C:\Users\Administrator\Documents\dev\Mendez's Empanadas\MendezsEmpanadas\MendezEmpanadas.Test\obj\Debug\net10.0\MendezEmpanadas.Test.sourcelink.json
+C:\Users\Administrator\Documents\dev\Mendez's Empanadas\MendezsEmpanadas\MendezEmpanadas.Test\bin\Debug\net10.0\Castle.Core.dll
+C:\Users\Administrator\Documents\dev\Mendez's Empanadas\MendezsEmpanadas\MendezEmpanadas.Test\bin\Debug\net10.0\Moq.dll
