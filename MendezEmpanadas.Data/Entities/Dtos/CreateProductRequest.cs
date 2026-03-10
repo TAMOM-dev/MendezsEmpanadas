@@ -5,7 +5,7 @@ namespace MendezEmpanadas.Data.Entities.Dtos
         string Name,
         decimal Price,
         string Description,
-        string StockQuantity
+        int StockQuantity
     );
     
 }
