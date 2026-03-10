@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,6 +79,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "MendezEmpanadas.Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:47:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Repositories\\ProductRepository.cs",
@@ -87,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductResponse.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Dtos\\ProductResponse.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Dtos\\ProductResponse.cs",
@@ -100,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CreateProductRequest.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Dtos\\CreateProductRequest.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Dtos\\CreateProductRequest.cs",
@@ -113,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Services\\ProductService.cs",
@@ -126,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ICartProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\ICartProductRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\ICartProductRepository.cs",
@@ -139,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Product.cs",
@@ -152,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\IProductRepository.cs",
@@ -165,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ICartRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\ICartRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\ICartRepository.cs",
@@ -178,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmpanadasContext.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
@@ -191,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\IClientRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\IClientRepository.cs",
@@ -204,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\IUnitOfWork.cs",
@@ -217,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CartProduct.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\CartProduct.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\CartProduct.cs",
@@ -230,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Cart.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Cart.cs",
@@ -243,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Client.cs",
@@ -256,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Test\\UnitTest1.cs",
