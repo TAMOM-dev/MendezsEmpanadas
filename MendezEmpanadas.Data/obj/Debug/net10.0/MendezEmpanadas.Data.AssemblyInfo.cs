@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MendezEmpanadas.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c61a9ff4f5db2b1e84c02b01d59a0d3b31332f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b01f1608795bffd967ae6d52f8c427ec04d36c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MendezEmpanadas.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MendezEmpanadas.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
