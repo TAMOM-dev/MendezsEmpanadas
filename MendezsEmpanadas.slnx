@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MendezEmpanadas.Data/MendezEmpanadas.Data.csproj" />
+  <Project Path="MendezEmpanadas.Test/MendezEmpanadas.Test.csproj" Id="27e9251e-0871-4483-8f0c-86028821b268" />
+  <Project Path="MendezEmpanadas.Web/MendezEmpanadas.Web.csproj" Id="59fecbdc-98ea-4fd8-82d7-8b689117ab92" />
+</Solution>
