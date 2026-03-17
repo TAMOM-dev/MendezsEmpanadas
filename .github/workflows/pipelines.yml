@@ -16,7 +16,7 @@ jobs:
 
     env:
       buildConfiguration: 'Release'
-      solution: '**/*.sln'
+      solution: 'MendezsEmpanadas.slnx'
 
     steps:
       - name: Checkout code
