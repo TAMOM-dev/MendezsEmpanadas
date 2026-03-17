@@ -1,1 +1,37 @@
+on:
+  push:
+    branches:
+      - develop
+      - main
+      - qa
+  pull_request:
+    branches:
+      - develop
+      - main
+      - qa
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      buildConfiguration: 'Release'
+      solution: '**/*.sln'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'  
+
+      - name: Restore dependencies
+        run: dotnet restore ${{ env.solution }}
+
+      - name: Build
+        run: dotnet build ${{ env.solution }} --configuration ${{ env.buildConfiguration }} --no-restore
+
+      - name: Run tests
+        run: dotnet test --configuration ${{ env.buildConfiguration }} --no-build --verbosity normal
