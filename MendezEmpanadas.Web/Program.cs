@@ -1,7 +1,14 @@
+using MendezEmpanadas.Data;
+using MendezEmpanadas.Data.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddInfrastructure(builder.Configuration);
+builder.Services.AddScoped<ProductService>();
+
+
 
 var app = builder.Build();
 
