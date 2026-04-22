@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27E9251E-0871-4483-8F0C-86028821B268}|MendezEmpanadas.Test\\MendezEmpanadas.Test.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.test\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27E9251E-0871-4483-8F0C-86028821B268}|MendezEmpanadas.Test\\MendezEmpanadas.Test.csproj|solutionrelative:mendezempanadas.test\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|solutionrelative:mendezempanadas.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|solutionrelative:mendezempanadas.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|solutionrelative:mendezempanadas.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|solutionrelative:mendezempanadas.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FECBDC-98EA-4FD8-82D7-8B689117AB92}|MendezEmpanadas.Web\\MendezEmpanadas.Web.csproj|solutionrelative:mendezempanadas.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\context\\empanadascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\context\\empanadascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\services\\tests\\iproductservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\context\\empanadascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\context\\empanadascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\entities\\dtos\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|c:\\users\\administrator\\documents\\dev\\mendez\u0027s empanadas\\mendezsempanadas\\mendezempanadas.data\\entities\\cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{506AC3FA-9D6C-708B-E539-BC978F02F03F}|MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj|solutionrelative:mendezempanadas.data\\entities\\cartproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,63 +106,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "MendezEmpanadas.Web\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:49:26.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MendezEmpanadas.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:29:45.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MendezEmpanadas.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T22:29:19.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MendezEmpanadas.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T22:29:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MendezEmpanadas.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:28:53.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IProductServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Services\\Tests\\IProductServiceTests.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Services\\Tests\\IProductServiceTests.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Services\\Tests\\IProductServiceTests.cs",
               "RelativeToolTip": "MendezEmpanadas.Data\\Services\\Tests\\IProductServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T03:15:36.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\DependencyInjection.cs",
-              "RelativeToolTip": "MendezEmpanadas.Data\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Services\\ProductService.cs",
+              "RelativeToolTip": "MendezEmpanadas.Data\\Services\\ProductService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T02:58:15.39Z",
+              "WhenOpened": "2026-03-10T01:54:34.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Program.cs",
-              "RelativeDocumentMoniker": "MendezEmpanadas.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Program.cs",
-              "RelativeToolTip": "MendezEmpanadas.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T02:50:24.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MendezEmpanadas.Data",
+              "DocumentIndex": 13,
+              "Title": "MendezEmpanadas.Data.csproj",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj",
               "RelativeToolTip": "MendezEmpanadas.Data\\MendezEmpanadas.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-10T02:50:00.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T02:50:00.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Repositories\\UnitOfWork.cs",
@@ -154,29 +221,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Repositories\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T02:47:29.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T02:47:29.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductTest.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Test\\ProductTest.cs",
-              "RelativeDocumentMoniker": "MendezEmpanadas.Test\\ProductTest.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Test\\ProductTest.cs",
-              "RelativeToolTip": "MendezEmpanadas.Test\\ProductTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T02:45:37.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Product.cs",
@@ -184,8 +233,7 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T21:59:31.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T21:59:31.073Z"
             },
             {
               "$type": "Document",
@@ -195,14 +243,64 @@
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "MendezEmpanadas.Data\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T02:36:48.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Client.cs",
+              "RelativeToolTip": "MendezEmpanadas.Data\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T21:56:24.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpanadasContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
+              "RelativeToolTip": "MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:52:57.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Web\\Program.cs",
+              "RelativeToolTip": "MendezEmpanadas.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:50:24.02Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\DependencyInjection.cs",
+              "RelativeToolTip": "MendezEmpanadas.Data\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:58:15.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ProductResponse.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Dtos\\ProductResponse.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Dtos\\ProductResponse.cs",
@@ -210,12 +308,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Entities\\Dtos\\ProductResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T02:11:15.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T02:11:15.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "CreateProductRequest.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Dtos\\CreateProductRequest.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Dtos\\CreateProductRequest.cs",
@@ -223,25 +320,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Entities\\Dtos\\CreateProductRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T02:06:22.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T02:06:22.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Services\\ProductService.cs",
-              "RelativeToolTip": "MendezEmpanadas.Data\\Services\\ProductService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwEQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T01:54:34.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ICartProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\ICartProductRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\ICartProductRepository.cs",
@@ -249,12 +332,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Interfaces\\ICartProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T01:36:56.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T01:36:56.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\IProductRepository.cs",
@@ -262,12 +344,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T01:27:04.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T01:27:04.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ICartRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\ICartRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\ICartRepository.cs",
@@ -275,25 +356,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Interfaces\\ICartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T01:36:35.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T01:36:35.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EmpanadasContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
-              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
-              "RelativeToolTip": "MendezEmpanadas.Data\\Context\\EmpanadasContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T02:52:57.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "IClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\IClientRepository.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\IClientRepository.cs",
@@ -301,12 +368,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Interfaces\\IClientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T01:35:30.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T01:35:30.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Interfaces\\IUnitOfWork.cs",
@@ -314,12 +380,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T01:33:21.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T01:33:21.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "CartProduct.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\CartProduct.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\CartProduct.cs",
@@ -327,12 +392,11 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Entities\\CartProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T00:52:46.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T00:52:46.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Cart.cs",
               "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Cart.cs",
@@ -340,21 +404,7 @@
               "RelativeToolTip": "MendezEmpanadas.Data\\Entities\\Cart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T00:40:05.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Client.cs",
-              "RelativeDocumentMoniker": "MendezEmpanadas.Data\\Entities\\Client.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\dev\\Mendez\u0027s Empanadas\\MendezsEmpanadas\\MendezEmpanadas.Data\\Entities\\Client.cs",
-              "RelativeToolTip": "MendezEmpanadas.Data\\Entities\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T21:56:24.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T00:40:05.259Z"
             }
           ]
         }

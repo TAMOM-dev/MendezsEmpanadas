@@ -41,7 +41,7 @@ namespace MendezEmpanadas.Data.Services
 
         }
 
-        public async Task<ProductResponse?> GetProductResponseAsync(Guid id, CancellationToken ct = default)
+        public async Task<ProductResponse?> GetProductByIdAsync(Guid id, CancellationToken ct = default)
         {
             var product = await _productRepository.GetByIdAsync(id, ct);
             if (product == null)
