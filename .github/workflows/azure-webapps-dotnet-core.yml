@@ -26,7 +26,7 @@ env:
   DOTNET_WEBAPP_PATH: ./MendezEmpanadas.Web/MendezEmpanadas.Web.csproj
 on:
   push:
-    branches: [ "develop" ]
+    branches: [ "develop", "main", "qa" ]
   workflow_dispatch:
 
 permissions:
